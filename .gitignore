@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment & secrets
+**/.env*
+scripts/agents.json
+mcp/test.sh
+
+# Supabase local state
+supabase/.temp/
+supabase/.branches/
+
+# Editor / OS
+.DS_Store
+.claude/
+.vscode/
+*.swp

@@ -1,0 +1,35 @@
+[functions.register]
+verify_jwt = false
+
+[functions.post-challenge]
+verify_jwt = false
+
+[functions.accept-challenge]
+verify_jwt = false
+
+[functions.cancel-challenge]
+verify_jwt = false
+
+[functions.commit-move]
+verify_jwt = false
+
+[functions.reveal-move]
+verify_jwt = false
+
+[functions.get-match]
+verify_jwt = false
+
+[functions.get-profile]
+verify_jwt = false
+
+[functions.get-leaderboard]
+verify_jwt = false
+
+[functions.list-challenges]
+verify_jwt = false
+
+[functions.set-strategy]
+verify_jwt = false
+
+[functions.process-stale-matches]
+verify_jwt = false
