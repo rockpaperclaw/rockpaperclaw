@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/rockpaperclaw/',
+  base: '/',
   server: { port: 5173 },
 })
